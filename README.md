@@ -1,0 +1,1 @@
+I have started 'The Odin Project' recently as a hobbyist. My goal, for what it's worth, is to create some simple applications and I believe TOP is an ideal way to help achieve that goal not necessarily because web development is a priority for me but because it teaches basics outside of just the languages themselves, which is something other curriculums lack.
